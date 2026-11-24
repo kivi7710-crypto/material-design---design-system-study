@@ -30,6 +30,10 @@ This project explores the fundamentals of Material Design 3, Google's design sys
 - Figma
 - Material Design 3 Guidelines
 
+project screenshot:
+<img width="1052" height="773" alt="design systemsk" src="https://github.com/user-attachments/assets/d15d4788-bbe1-41a5-9c1b-c65cfbc9439f" />
+
+
 📚 Key Learnings
 
 Through this project, I learned how design systems maintain consistency, improve usability, and create structured user interfaces.
